@@ -1,0 +1,4 @@
+#Thu Nov 07 21:57:06 TRT 2024
+base.0=C\:\\Program Files\\Unity\\ProjelerNT\\1\\Disk\\Stres Diski 01\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

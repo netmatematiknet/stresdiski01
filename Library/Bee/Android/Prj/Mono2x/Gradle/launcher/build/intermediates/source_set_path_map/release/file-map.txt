@@ -1,0 +1,10 @@
+com.DefaultCompany.StresDiski01.launcher-pngs-0 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.StresDiski01.launcher-resValues-1 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.StresDiski01.launcher-rs-2 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.StresDiski01.launcher-mergeReleaseResources-3 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.StresDiski01.launcher-mergeReleaseResources-4 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.StresDiski01.launcher-merged_res-5 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.StresDiski01.launcher-main-6 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.StresDiski01.launcher-release-7 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.StresDiski01.launcher-packaged_res-8 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.StresDiski01.launcher-packaged_res-9 C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\packaged_res\release

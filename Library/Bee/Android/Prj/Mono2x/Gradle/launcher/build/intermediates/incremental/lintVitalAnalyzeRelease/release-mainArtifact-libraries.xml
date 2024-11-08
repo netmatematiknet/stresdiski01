@@ -1,0 +1,36 @@
+<libraries>
+  <library
+      name="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b655f9da069d0525731ab0818f21b2e3\transformed\out\jars\classes.jar;C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b655f9da069d0525731ab0818f21b2e3\transformed\out\jars\libs\R.jar;C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b655f9da069d0525731ab0818f21b2e3\transformed\out\jars\libs\classes-2.jar;C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b655f9da069d0525731ab0818f21b2e3\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b655f9da069d0525731ab0818f21b2e3\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\classes.jar:unspecified@jar"
+      jars="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\classes.jar"
+      resolved="__local_aars__:C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\classes.jar:unspecified"/>
+  <library
+      name="__local_aars__:C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:mobilenotifications.androidlib::release"
+      jars="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\21f194b3002ad12406bd9e298d8df20f\transformed\out\jars\classes.jar;C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\21f194b3002ad12406bd9e298d8df20f\transformed\out\jars\libs\R.jar"
+      resolved="Gradle.unityLibrary:mobilenotifications.androidlib:unspecified"
+      folder="C:\Program Files\Unity\ProjelerNT\1\Disk\Stres Diski 01\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\21f194b3002ad12406bd9e298d8df20f\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
